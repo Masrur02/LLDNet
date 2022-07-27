@@ -24,5 +24,5 @@ The mixed dataset utilized in this work can be found https://drive.google.com/fi
 and https://drive.google.com/file/d/1I264WVBL3Dyp_4PTfEYkVIDkg_Yn5gJJ/view?usp=sharing
 
 # Key Files
-1. ([LLDNet.ipynb](https://github.com/Masrur02/LLDNet/blob/main/LLDNet.ipynb))
+1. [LLDNet.ipynb](https://github.com/Masrur02/LLDNet/blob/main/LLDNet.ipynb)
 
