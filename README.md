@@ -18,4 +18,5 @@ In this work, we constructed a mixed dataset by combining the “Udacity Machine
 
 ## Download
 The mixed dataset utilized in this work can be found https://drive.google.com/file/d/1S23Ac0_hbOktV0rE2q0IkQWpQjUfkMTB/view?usp=sharing 
-and https://drive.google.com/file/d/1I264WVBL3Dyp_4PTfEYkVIDkgYn5gJJ/view?usp=sharing
+and https://drive.google.com/file/d/1I264WVBL3Dyp_4PTfEYkVIDkg_
+Yn5gJJ/view?usp=sharing
