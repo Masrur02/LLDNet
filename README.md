@@ -30,13 +30,13 @@ and https://drive.google.com/file/d/1I264WVBL3Dyp_4PTfEYkVIDkg_Yn5gJJ/view?usp=s
 3. [Lane_detection.py](https://github.com/Masrur02/LLDNet/blob/main/Lane_detection.py) -Using the trained model and an input video, this predicts the lane, and returns the original video with predicted lane lines drawn onto it.
 
 # Citation
-Please cite our paper if you use this code or the mixed dataset in your own work:
-@article{sensors-22-05595,
-  title={LLDNet: A Lightweight Lane Detection Approach for Autonomous Cars Using Deep Learning},
-  author={Khan, M.A.-M.; Haque, M.F.; Hasan, K.R.; Alamjani, S.H.; Baz, M.; Masud, M.; Al-Nahid, A.},
-  journal={Sensors},
-  volume={22},
-  year={2022}
+Please cite our paper if you use this code or the mixed dataset in your own work:\
+@article{sensors-22-05595},\
+  title={LLDNet: A Lightweight Lane Detection Approach for Autonomous Cars Using Deep Learning},\
+  author={Khan, M.A.-M.; Haque, M.F.; Hasan, K.R.; Alamjani, S.H.; Baz, M.; Masud, M.; Al-Nahid, A.},\
+  journal={Sensors},\
+  volume={22},\
+  year={2022}\
 }
 
 
