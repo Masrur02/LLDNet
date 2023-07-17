@@ -36,7 +36,7 @@ Please cite our paper if you use this code or the mixed dataset in your own work
   author={Khan, M.A.-M.; Haque, M.F.; Hasan, K.R.; Alamjani, S.H.; Baz, M.; Masud, M.; Al-Nahid, A.},
   journal={Sensors},
   volume={22},
-  year={2022},
+  year={2022}
 }
 
 
